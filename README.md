@@ -8,4 +8,4 @@ Prefix **`c. or @mention`**
 |-------|-----------|
 | **`c.help`** | Views help command.| 
 | **`c.ping`** | Views my latency. | 
-| **`c.auinfo`** | Views confirmed cases in Australia, including statistics from every states. |
+| **`c.info`** | Views confirmed cases in Australia, including statistics from every states. |
