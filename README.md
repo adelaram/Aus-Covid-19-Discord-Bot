@@ -4,7 +4,8 @@ An unofficial Discord bot to recieve the latest update and real time stats on CO
 ## Commands
 Prefix **`c. or @mention`**
 
-| Command | Description |
+| Command | Description | Aliases |
 |-------|-----------|
-| **`c.help`** | Views help command. |
-| **`c.info`** | Views confirmed cases in Australia, including stats from every state. |
+| **`c.help`** | Views help command. | 
+| **`c.ping`** | Views my latency. | 
+| **`c.auinfo`** | Views confirmed cases in Australia, including statistics from every states. |
