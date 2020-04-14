@@ -1,5 +1,5 @@
-# Aus-Covid-19-Discord-Bot
-An unofficial Discord bot to recieve the latest update and real time stats on COVID-19 in Australia
+# COVID-19 Aus Discord Bot
+An unofficial Discord bot to recieve the latest update and real time stats on COVID-19 in Australia.
 
 ## Commands
 Prefix **`c. or @mention`**
